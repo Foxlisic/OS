@@ -1,0 +1,1 @@
+bochsdbg.exe -f c.bxrc -q
